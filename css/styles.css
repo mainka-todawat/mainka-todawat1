@@ -1,0 +1,93 @@
+body {
+ background-color: #EAF6F6;
+ margin: 0;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+img {
+  height: 200px;
+}
+.circular{
+  border-radius: 100%;
+  align-items: center;
+}
+.name {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  text-align: center;
+  font-size: 40px;
+  background-color: #ffe4e1;
+}
+
+.photo{
+  float: left;
+  margin:5%;
+  flex: 30%;
+  align-items: center;
+}
+.gen{
+  font-size:40px;
+  color: black;
+  text-align: center;
+}
+
+.intro1 {
+  width: 500px;
+  margin: 200px auto 0px auto;
+  border-style: solid;
+  border-radius: 100%;
+  border-color: green;
+  text-align: center;
+}
+.edu {
+  width: 500px;
+  margin: 200px auto 0px auto;
+  border-style: solid;
+  border-radius: 100%;
+  border-color: green;
+  text-align: center;
+}
+.work {
+  width: 500px;
+  margin: 200px auto 0px auto;
+  border-style: solid;
+  border-width: 20px;
+  border-color: green;
+  text-align: center;
+}
+.skills {
+  width: 500px;
+  margin: 200px auto 0px auto;
+  border-style: solid;
+  border-width: 20px;
+  border-color: green;
+  text-align: center;
+}
+.hobbies {
+  width: 500px;
+  margin: 200px auto 0px auto;
+  border-style: solid;
+  border-radius: 100%;
+  border-color: green;
+  text-align: center;
+}
+.con1 {
+  width:500px;
+  margin:50px auto 50px auto;
+  border-style: solid;
+  border-radius: 100%;
+  border-color: green;
+  text-align: center;
+}
